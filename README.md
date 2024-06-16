@@ -33,8 +33,8 @@ Saved the trained model and TF-IDF vectorizer for future predictions on new SMS 
 1. Z_Rock_ML_Internship_Project_1.ipynb: Jupyter notebook containing the entire project code and detailed explanations.
 2. spam.csv: Dataset used for training and testing the model.
 3. requirements.txt: List of Python dependencies required to run the project.
-4. spam_detection_model.pkl
-5. tfidf_vectorizer.pkl
+4. spam_detection_model.pkl: Serialized Multinomial Naive Bayes classifier trained to classify SMS messages as 'spam' or 'ham'.
+5. tfidf_vectorizer.pkl: Serialized TF-IDF (Term Frequency-Inverse Document Frequency) vectorizer used to transform text data into numerical features for SMS spam detection.
 
 # Usage
 Clone the repository using the following commands: 
