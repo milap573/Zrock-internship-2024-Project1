@@ -39,7 +39,7 @@ Saved the trained model and TF-IDF vectorizer for future predictions on new SMS 
 # Usage
 Clone the repository: 
 git clone <repository-url>
-cd <repository-name>
+cd 
 
 # Install dependencies
 pip install -r requirements.txt
