@@ -37,9 +37,9 @@ Saved the trained model and TF-IDF vectorizer for future predictions on new SMS 
 5. tfidf_vectorizer.pkl
 
 # Usage
-Clone the repository: 
-git clone https://github.com/milap573/Zrock-internship-2024-Project1.git
-cd Zrock-internship-2024-Project1
+Clone the repository using the following commands: 
+1. git clone https://github.com/milap573/Zrock-internship-2024-Project1.git
+2. cd Zrock-internship-2024-Project1
 
 # Install dependencies
 pip install -r requirements.txt
