@@ -35,3 +35,11 @@ Saved the trained model and TF-IDF vectorizer for future predictions on new SMS 
 3. requirements.txt: List of Python dependencies required to run the project.
 4. spam_detection_model.pkl
 5. tfidf_vectorizer.pkl
+
+# Usage
+Clone the repository: 
+git clone <repository-url>
+cd <repository-name>
+
+# Install dependencies
+pip install -r requirements.txt
