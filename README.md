@@ -1,4 +1,4 @@
-# Zrock-internship-2024-Project1
+# Project-1: Spam Detection
 
 # Overview
 This project implements a machine learning model to classify SMS messages as either "spam" or "ham" (non-spam). It leverages natural language processing (NLP) techniques and the Multinomial Naive Bayes classifier for accurate classification.
